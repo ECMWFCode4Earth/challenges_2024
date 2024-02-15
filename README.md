@@ -14,6 +14,25 @@ Follow Code for Earth on [X (ex Twitter)](https://twitter.com/ECMWFCode4Earth) a
 
 <br>
 
+## Code for Earth 2024 Challenges
+There are xxx challenge streams:
+
+### Stream 1 - Machine Learning....
+
+<br>
+
+* Challenge xx
+* Challenge xx
+
+<br>
+
+### Stream 2 - Data visualization....
+
+<br>
+
+* Challenge xx
+* Challenge xx
+
 <br>
 
 ## How it works
