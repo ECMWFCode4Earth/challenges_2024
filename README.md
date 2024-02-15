@@ -10,7 +10,7 @@ Since 2018, each summer, developer teams work together with experienced mentors 
 <img src='./Call_for_Participation.jpeg' alt='ESoWC 2022' align='center' width='90%'></img>
 
 
-Follow Code for Earth on [Twitter](https://twitter.com/ECMWFCode4Earth) and sign up for our [newsletter](https://codeforearth.ecmwf.int/).
+Follow Code for Earth on [X](https://twitter.com/ECMWFCode4Earth) and sign up for our [newsletter](https://codeforearth.ecmwf.int/).
 
 <br>
 
