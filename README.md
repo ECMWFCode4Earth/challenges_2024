@@ -15,18 +15,9 @@ Follow Code for Earth on [X (ex Twitter)](https://twitter.com/ECMWFCode4Earth) a
 <br>
 
 ## Code for Earth 2024 Challenges
-There are xxx challenge streams:
+There are three challenge streams:
 
-### Stream 1 - Machine Learning....
-
-<br>
-
-* Challenge xx
-* Challenge xx
-
-<br>
-
-### Stream 2 - Data visualization....
+### Stream 1 - Data Visualization and visual narratives for Earth Sciences applications
 
 <br>
 
@@ -35,9 +26,26 @@ There are xxx challenge streams:
 
 <br>
 
+### Stream 2 - Machine Learning for Earth Sciences applications
+
+<br>
+
+* Challenge xx
+* Challenge xx
+
+<br>
+
+### Stream 3 - Software Development for Earth Sciences applications
+
+<br>
+
+* Challenge xx
+* Challenge xx
+
+  
 ## How it works
 
-### 1. Call for Participation: 27 Feb - 7 Apr 2024
+### 1. Call for Participation: 29 Feb - 7 Apr 2024
 Browse through the [Code for Earth challenges](https://github.com/ECMWFCode4Earth/challenges_2023/issues), ask questions and together with the mentors, tailor your proposal. Submit your proposal by 7 April 2024.
 
 ### 2. Announcement of selected proposals: 29 Apr 2024
