@@ -17,7 +17,7 @@ Follow Code for Earth on [X (ex Twitter)](https://twitter.com/ECMWFCode4Earth) a
 ## Code for Earth 2024 Challenges
 There are three challenge streams:
 
-### Stream 1 - Data Visualization and visual narratives for Earth Sciences applications
+### [Stream 1 - Data Visualization and visual narratives for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Data%20Visualisation%20and%20visual%20narratives)
 
 <br>
 
