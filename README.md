@@ -42,7 +42,9 @@ There are three challenge streams:
 * Challenge xx
 * Challenge xx
 
-  
+<br>
+
+
 ## How it works
 
 ### 1. Call for Participation: 29 Feb - 7 Apr 2024
