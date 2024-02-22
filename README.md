@@ -31,7 +31,7 @@ There are three challenge streams:
 
 <br>
 
-### Stream 2 - Machine Learning for Earth Sciences applications
+### [Stream 2 - Machine Learning for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Machine%20Learning)
 
 <br>
 
