@@ -35,8 +35,11 @@ There are three challenge streams:
 
 <br>
 
-* Challenge xx
-* Challenge xx
+* [Challenge 08 -Bridge the Gap: Bridging Gaps in Streamflow Observations with ML-driven Solutions](https://github.com/ECMWFCode4Earth/challenges_2024/issues/2) 
+* [Challenge 09 - Polly: A Natural Language Processing Interface to Extract Complex Features from Weather Datacubes](https://github.com/ECMWFCode4Earth/challenges_2024/issues/3)
+* [Challenge 10 - XAI for Weather Forecasting Models (Transformer Embeddings)](https://github.com/ECMWFCode4Earth/challenges_2024/issues/6)
+* [Challenge 11 - Using Machine Learning to Emulate the Earth’s Surface](https://github.com/ECMWFCode4Earth/challenges_2024/issues/12)
+* [Challenge 12 - Knowledge Graph Generation for Enhanced Chatbot and Scientific Literature Synthesis](https://github.com/ECMWFCode4Earth/challenges_2024/issues/7)
 
 <br>
 
@@ -44,8 +47,11 @@ There are three challenge streams:
 
 <br>
 
-* Challenge xx
-* Challenge xx
+* [Challenge 13 - Real-Time Modeling of Hydrological Loading Deformation and Gravity Changes](https://github.com/ECMWFCode4Earth/challenges_2024/issues/8)
+* [Challenge 14 - Advance user capabilities to handle data constraints when using CDSAPI](https://github.com/ECMWFCode4Earth/challenges_2024/issues/9)
+* [Challenge 15 - Dynamic CDS Quality of Service (QoS) Rules based on real time system monitoring](https://github.com/ECMWFCode4Earth/challenges_2024/issues/10)
+* [Challenge 16 - EVALKIT: Unifying ECMWF IFS Forecast Evaluation with Earthkit and Jupyter](https://github.com/ECMWFCode4Earth/challenges_2024/issues/11)
+* [Challenge 17 - Regional to Urban Air Quality Mapper](https://github.com/ECMWFCode4Earth/challenges_2024/issues/14)
 
 <br>
 
