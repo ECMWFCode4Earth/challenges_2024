@@ -21,7 +21,7 @@ There are three challenge streams:
 
 <br>
 
-* Challenge xx
+* [Challenge 01 - A Web Application for Interactive Visualisation of Verification Results]
 * Challenge xx
 
 <br>
