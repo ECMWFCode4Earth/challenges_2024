@@ -22,7 +22,12 @@ There are three challenge streams:
 <br>
 
 * [Challenge 01 - A Web Application for Interactive Visualisation of Verification Results](https://github.com/ECMWFCode4Earth/challenges_2024/issues/1)
-* Challenge xx
+* [Challenge 02 - Chronicles of Drought: Contextualising Earth's Water Story](https://github.com/ECMWFCode4Earth/challenges_2024/issues/4)
+* [Challenge 03 - Data visualisation for the CDS and ADS](https://github.com/ECMWFCode4Earth/challenges_2024/issues/5)
+* [Challenge 04 - Communication of key trends and messages associated with climate change impacts at the national - regional scale supporting the European Climate Data Explorer](https://github.com/ECMWFCode4Earth/challenges_2024/issues/13)
+* [Challenge 05 - Jupyter notebooks for CAMS web charts](https://github.com/ECMWFCode4Earth/challenges_2024/issues/16)
+* [Challenge 06 - Calendar of heatwaves: user interface allowing planning based on heat projections](https://github.com/ECMWFCode4Earth/challenges_2024/issues/15)
+* [Challenge 07 - Air quality dashboard](https://github.com/ECMWFCode4Earth/challenges_2024/issues/17)
 
 <br>
 
