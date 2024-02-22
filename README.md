@@ -21,7 +21,7 @@ There are three challenge streams:
 
 <br>
 
-* [Challenge 01 - A Web Application for Interactive Visualisation of Verification Results]
+* [Challenge 01 - A Web Application for Interactive Visualisation of Verification Results](https://github.com/ECMWFCode4Earth/challenges_2024/issues/1)
 * Challenge xx
 
 <br>
