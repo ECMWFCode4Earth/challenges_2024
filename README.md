@@ -43,7 +43,7 @@ There are three challenge streams:
 
 <br>
 
-### Stream 3 - Software Development for Earth Sciences applications
+### [Stream 3 - Software Development for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Software%20Development)
 
 <br>
 
