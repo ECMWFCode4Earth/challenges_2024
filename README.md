@@ -7,7 +7,7 @@ Since 2018, each summer, developer teams work together with experienced mentors 
 <br>
 
 
-<img src='./Application phase 1 - 1920x1080.jpg' alt='ESoWC 2022' align='center' width='90%'></img>
+
 
 
 Follow Code for Earth on [X (ex Twitter)](https://twitter.com/ECMWFCode4Earth) and sign up for our [newsletter](https://codeforearth.ecmwf.int/).
