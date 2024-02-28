@@ -28,6 +28,7 @@ There are three challenge streams:
 * [Challenge 14 - Jupyter notebooks for CAMS web charts](https://github.com/ECMWFCode4Earth/challenges_2024/issues/16)
 * [Challenge 15 - Calendar of heatwaves: user interface allowing planning based on heat projections](https://github.com/ECMWFCode4Earth/challenges_2024/issues/15)
 * [Challenge 16 - Air quality dashboard](https://github.com/ECMWFCode4Earth/challenges_2024/issues/17)
+* [Challenge 17 - The solar energy dashboard: visualising ECMWF and Copernicus data for the renewable energy community](
 
 <br>
 
