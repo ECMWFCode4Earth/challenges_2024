@@ -29,7 +29,7 @@ There are three challenge streams:
 * [Challenge 15 - Calendar of heatwaves: user interface allowing planning based on heat projections](https://github.com/ECMWFCode4Earth/challenges_2024/issues/15)
 * [Challenge 16 - Air quality dashboard](https://github.com/ECMWFCode4Earth/challenges_2024/issues/17)
 * [Challenge 17 - The solar energy dashboard: visualising ECMWF and Copernicus data for the renewable energy community](https://github.com/ECMWFCode4Earth/challenges_2024/issues/18)
-* [Challenge 18 - Evaluation tool for urban anthropogenic heat emissions: how important is local data?](
+* [Challenge 18 - Evaluation tool for urban anthropogenic heat emissions: how important is local data?](https://github.com/ECMWFCode4Earth/challenges_2024/issues/19)
 
 <br>
 
