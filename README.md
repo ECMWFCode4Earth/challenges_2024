@@ -10,7 +10,7 @@ Since 2018, each summer, developer teams work together with experienced mentors 
 <img src='./Application phase 2 - 1920x1080.jpg ' alt='ESoWC 2022' align='center' width='90%'></img>
 
 
-Follow Code for Earth on [X (ex Twitter)](https://twitter.com/ECMWFCode4Earth) and sign up for our [newsletter](https://codeforearth.ecmwf.int/).
+Follow Code for Earth on [X](https://twitter.com/ECMWFCode4Earth) and sign up for our [newsletter](https://codeforearth.ecmwf.int/).
 
 <br>
 
@@ -81,6 +81,6 @@ Successfully completed projects will receive a €5,000 stipend.
 * [Code for Earth website](https://codeforearth.ecmwf.int)
 * [Code for Earth Frequently Asked Questions](http://codeforearth.ecmwf.int/FAQ)
 * [Code for Earth Terms & Conditions](http://codeforearth.ecmwf.int/terms-and-conditions)
-* Follow Code for Earth on [X (ex Twitter)](https://twitter.com/ECMWFCode4Earth), [LinkedIn](https://www.linkedin.com/company/ecmwf-code-for-earth) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
+* Follow Code for Earth on [X](https://twitter.com/ECMWFCode4Earth), [LinkedIn](https://www.linkedin.com/company/ecmwf-code-for-earth) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
 * ECMWF Newsletter: [Ten teams take part in Code for Earth](https://www.ecmwf.int/en/newsletter/177/news/ten-teams-take-part-code-earth)
 
