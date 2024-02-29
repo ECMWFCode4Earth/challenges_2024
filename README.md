@@ -60,13 +60,13 @@ There are three challenge streams:
 
 ## How it works
 
-### 1. Call for Participation: 29 Feb - 9 Apr 2024
-Browse through the [Code for Earth challenges](https://github.com/ECMWFCode4Earth/challenges_2024/issues), ask questions and together with the mentors, tailor your proposal. Submit your proposal by 9 April 2024.
+### 1. Call for Participation: 29 Feb - 09 Apr 2024
+Browse through the [Code for Earth challenges](https://github.com/ECMWFCode4Earth/challenges_2024/issues), ask questions and together with the mentors, tailor your proposal. [Submit your proposal](https://codeforearth.ecmwf.int) by 09 April 2024.
 
 ### 2. Announcement of selected proposals: 29 Apr 2024
 The selected Code for Earth 2024 project teams will be announced on 29 Apr 2024.
 
-### 3. Coding phase: 2 May  - 31 Aug 2024
+### 3. Coding phase: 02 May  - 31 Aug 2024
 The four-month long coding period starts on 02 May 2024 and ends on 31 August 2024. During this time, the selected teams will work with their Code for Earth mentors. These are experts in earth sciences like weather, climate and climate change, atmosphere and air quality or in technology areas like AI/ML, cloud computing, applied data science or open source software development.
 
 ### 4. Final Code for Earth day: 18 September 2024
