@@ -78,6 +78,7 @@ Successfully completed projects will receive a €5,000 stipend.
 <br>
 
 ## Important links
+* [Code for Earth website](https://codeforearth.ecmwf.int)
 * [Code for Earth Frequently Asked Questions](http://codeforearth.ecmwf.int/FAQ)
 * [Code for Earth Terms & Conditions](http://codeforearth.ecmwf.int/terms-and-conditions)
 * Follow Code for Earth on [X (ex Twitter)](https://twitter.com/ECMWFCode4Earth), [LinkedIn](https://www.linkedin.com/company/ecmwf-code-for-earth) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
