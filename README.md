@@ -17,7 +17,8 @@ Follow Code for Earth on [X](https://twitter.com/ECMWFCode4Earth) and sign up fo
 ## Code for Earth 2024 Challenges
 There are three challenge streams:
 
-### [Stream 1 - Data Visualization and visual narratives for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Data%20Visualisation%20and%20visual%20narratives)
+### [Stream 1 - Data Visualization and visual narratives for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Data%20Visualisation%20and%20visual%20narratives)   ![stream 1](https://github.com/ECMWFCode4Earth/challenges_2024/assets/48361058/ae9993f9-8df7-46f9-ac85-77c11761254f)
+
 
 <br>
 
@@ -33,7 +34,7 @@ There are three challenge streams:
 
 <br>
 
-### [Stream 2 - Machine Learning for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Machine%20Learning)
+### [Stream 2 - Machine Learning for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Machine%20Learning)   ![Stream 2](https://github.com/ECMWFCode4Earth/challenges_2024/assets/48361058/f657bb12-e183-4969-8e59-a53370601e4f)
 
 <br>
 
@@ -45,7 +46,8 @@ There are three challenge streams:
 
 <br>
 
-### [Stream 3 - Software Development for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Software%20Development)
+### [Stream 3 - Software Development for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Software%20Development)  ![Stream 3](https://github.com/ECMWFCode4Earth/challenges_2024/assets/48361058/156f35ae-201e-454b-b50e-d472d607d072)
+
 
 <br>
 
