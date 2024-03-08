@@ -65,11 +65,16 @@ Don't miss our dedicated Q&A webinars
 <br>
 
 
-<img src='./Webinar_March_2024 ' alt='ESoWC 2022' align='center' width='90%'></img>
+<img src='./webinars_March_2024.PNG ' alt='ESoWC 2022' align='center' width='90%'></img>
 
+If you want to know more about Code for Earth and how to submit a proposal, be sure to attend our dedicated Q&A webinars! Across two 45-minute sessions, we will share essential insights and tips for crafting winning proposals for our programme. 
 
+These webinars are ideal for both individuals already acquainted with Code for Earth and those just discovering it, offering insights to enhance your knowledge and give you a competitive edge. 
+
+Additionally, our team will be available after every session to address your queries, ensuring you have all the information needed to increase your success rate. Remember to sign up on [Code for Earth website](https://codeforearth.ecmwf.int) to reserve your place and take part in an informative session.
 
 <br>
+
 
 ## How it works
 
