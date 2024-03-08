@@ -59,6 +59,17 @@ There are three challenge streams:
 
 <br>
 
+## Any questions about Code for Earth? 
+Don't miss our dedicated Q&A webinars
+
+<br>
+
+
+<img src='./Webinar_March_2024 ' alt='ESoWC 2022' align='center' width='90%'></img>
+
+
+
+<br>
 
 ## How it works
 
