@@ -14,51 +14,27 @@ Follow Code for Earth on [X](https://twitter.com/ECMWFCode4Earth) and sign up fo
 
 <br>
 
-## Code for Earth 2024 Challenges
 
-Important Note: For eligibility of participation, please check the [Code for Earth Terms & Conditions](http://codeforearth.ecmwf.int/terms-and-conditions).
+## Code for Earth 2024 Projects
+Congratulations to the teams that have been selected to be part of Code for Earth 2024:
 
-There are three challenge streams:
-
-### [Stream 1 - Data Visualization and visual narratives for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Data%20Visualisation%20and%20visual%20narratives)   ![stream 1](https://github.com/ECMWFCode4Earth/challenges_2024/assets/48361058/ae9993f9-8df7-46f9-ac85-77c11761254f)
-
-
-<br>
-
-* [Challenge 10 - A Web Application for Interactive Visualisation of Verification Results](https://github.com/ECMWFCode4Earth/challenges_2024/issues/1)
-* [Challenge 11 - Chronicles of Drought: Contextualising Earth's Water Story](https://github.com/ECMWFCode4Earth/challenges_2024/issues/4)
-* [Challenge 12 - Data visualisation for the CDS and ADS](https://github.com/ECMWFCode4Earth/challenges_2024/issues/5)
-* [Challenge 13 - Communication of key trends and messages associated with climate change impacts at the national - regional scale supporting the European Climate Data Explorer](https://github.com/ECMWFCode4Earth/challenges_2024/issues/13)
-* [Challenge 14 - Jupyter notebooks for CAMS web charts](https://github.com/ECMWFCode4Earth/challenges_2024/issues/16)
-* [Challenge 15 - Calendar of heatwaves: user interface allowing planning based on heat projections](https://github.com/ECMWFCode4Earth/challenges_2024/issues/15)
-* [Challenge 16 - Air quality dashboard](https://github.com/ECMWFCode4Earth/challenges_2024/issues/17)
-* [Challenge 17 - The solar energy dashboard: visualising ECMWF and Copernicus data for the renewable energy community](https://github.com/ECMWFCode4Earth/challenges_2024/issues/18)
-* [Challenge 18 - Evaluation tool for urban anthropogenic heat emissions: how important is local data?](https://github.com/ECMWFCode4Earth/challenges_2024/issues/19)
-
-<br>
-
-### [Stream 2 - Machine Learning for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Machine%20Learning)   ![Stream 2](https://github.com/ECMWFCode4Earth/challenges_2024/assets/48361058/f657bb12-e183-4969-8e59-a53370601e4f)
-
-<br>
-
-* [Challenge 20 -Bridge the Gap: Bridging Gaps in Streamflow Observations with ML-driven Solutions](https://github.com/ECMWFCode4Earth/challenges_2024/issues/2) 
-* [Challenge 21 - Polly: A Natural Language Processing Interface to Extract Complex Features from Weather Datacubes](https://github.com/ECMWFCode4Earth/challenges_2024/issues/3)
-* [Challenge 22 - XAI for Weather Forecasting Models (Transformer Embeddings)](https://github.com/ECMWFCode4Earth/challenges_2024/issues/6)
-* [Challenge 23 - Using Machine Learning to Emulate the Earth’s Surface](https://github.com/ECMWFCode4Earth/challenges_2024/issues/12)
-* [Challenge 24 - Knowledge Graph Generation for Enhanced Chatbot and Scientific Literature Synthesis](https://github.com/ECMWFCode4Earth/challenges_2024/issues/7)
-
-<br>
-
-### [Stream 3 - Software Development for Earth Sciences applications](https://github.com/ECMWFCode4Earth/challenges_2024/labels/Software%20Development)  ![Stream 3](https://github.com/ECMWFCode4Earth/challenges_2024/assets/48361058/156f35ae-201e-454b-b50e-d472d607d072)
+| Project title | Team | Mentors |
+| ---------- | --------------- | -------------- |
+| [**A Web Application for Interactive Visualisation of Verification Results**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/1) | Hakan Deniz Kale <br> Elif Rana Arslan <br> Yavuz Arda Orak | Luke Jones <br> Cihan Sahin <br> Dimitar Tasev <br> James Varndell |
+| [**Chronicles of Drought: Contextualising Earth's Water Story**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/4) | Xenofon Karagiannis <br> Georgios Begkas <br> Lucy Colley <br> Madiha Abbas <br> Marina Caporlingua | Christopher Barnard <br> Jessica Keune <br> Francesca Di Giuseppe <br> Fredrik Wetterhall |
+| [**Jupyter notebooks for CAMS web charts**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/16) | Xenofon Karagiannis | [Miha Razinger](https://github.com/miha-at-ecmwf) <br> Mark Parrington <br> Milana Vuckovic <br> Chris Stewart |
+| [**Air quality dashboard**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/17) | Tim Johnson <br> Sebastian Steinig <br> Ajay Mehta <br> Mike Walker-Rose <br> Max Nyamunda <br> Ben Ell-Jones | Mark Parrington <br> [Miha Razinger](https://github.com/miha-at-ecmwf) <br> Johannes Flemming |
+| [**The solar energy dashboard: visualising ECMWF and Copernicus data for the renewable energy community**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/18) | Sergio Castillo Pérez <br> Irma Riádigos Sánchez <br> John Alberto López Hernández <br> Jon Ander Zapirain Manrique <br> JXabier Elberdin Robles | Nube Gonzalez Reviriego <br> Edward Comyn-Platt <br> James Varndell <br> Julie Letertre <br> Melanie Ades |
+| [**Bridge the Gap: Bridging Gaps in Streamflow Observations with ML-driven Solutions**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/2) | Konstastinos Plataridis <br> Yiannis Kontos <br> YDiamantis Karakatsanis <br> Charis Stavridis <br> Nikolaos Xafoulis <br> Konstantinos Perifanos | Maliko Tanguy <br> Mariana Clare <br> Cinzia Mazzetti <br> Gwyneth Matthews |
+| [**Polly: A Natural Language Processing Interface to Extract Complex Features from Weather Datacubes**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/3) | Christopher Drowley <br> Hope Kathleen Irvine <br> Matt Causon <br> Holly Dancer <br> Nadia Skifa <br> Matthew William Chapman <br> Kaitlyn Natasha Ries <br> Thomas Goldring | Mathilde Leuridan <br> Adam Warde |
+| [**XAI for Weather Forecasting Models (Transformer Embeddings)**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/6) | Mihaela CAIAN <br> Andrei Gherasim <br> Adrian Berlic | [Mariana Clare](https://github.com/mc4117) <br> Jesper Dramsch <br> Ana Prieto Nemesio <br> [Mario Santa Cruz López](https://github.com/JPXKQX) |
+| [**Using Machine Learning to Emulate the Earth’s Surface**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/12) | Yikui Zhang <br> Till Fohrmann <br> Johannes Leonhardt <br> Mohamad Hakam Shams Eddin | Ewan Pinnington <br> Christoph Herbert <br> Patricia de Rosnay <br> Souhail Boussetta <br> David Fairbairn <br> Peter Weston <br> Sébastien Garrigues |
+| [**Knowledge Graph Generation for Enhanced Chatbot and Scientific Literature Synthesis**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/7) | Quốc Việt NGUYỄN <br> GÔ Đức Thịnh  <br> VŨ Thị Hải Yến <br> ĐÀO Nhật Minh <br> PHẠM Vũ Hoàng Anh | Ana Prieto Nemesio <br> Florian Pinault <br> Baudouin Raoult |
+| [**Advance user capabilities to handle data constraints when using CDSAPI**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/9) | Irina Roxana Sucoverschi <br> Thomas Edward Calloway | Angel Lopez Alos <br> Corvin-Petrut Cobarzan- <br> Gionata Biavati |
+| [**Advance user capabilities to handle data constraints when using CDSAPI**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/9) | Catalin-Ionut Albu <br> Andrei Cotor | Angel Lopez Alos <br> Corvin-Petrut Cobarzan- <br> Gionata Biavati |
+| [**Regional to Urban Air Quality Mapper**](https://github.com/ECMWFCode4Earth/challenges_2024/issues/14) | Eloi Codina <br> Adrià Fenoy <br> Òscar Hernández | Martin Ramacher <br> Johannes Bieser <br> [Miha Razinger](https://github.com/miha-at-ecmwf) |
 
 
-<br>
-
-* [Challenge 30 - Real-Time Modeling of Hydrological Loading Deformation and Gravity Changes](https://github.com/ECMWFCode4Earth/challenges_2024/issues/8)
-* [Challenge 31 - Advance user capabilities to handle data constraints when using CDSAPI](https://github.com/ECMWFCode4Earth/challenges_2024/issues/9)
-* [Challenge 32 - Dynamic CDS Quality of Service (QoS) Rules based on real time system monitoring](https://github.com/ECMWFCode4Earth/challenges_2024/issues/10)
-* [Challenge 33 - EVALKIT: Unifying ECMWF IFS Forecast Evaluation with Earthkit and Jupyter](https://github.com/ECMWFCode4Earth/challenges_2024/issues/11)
-* [Challenge 34 - Regional to Urban Air Quality Mapper](https://github.com/ECMWFCode4Earth/challenges_2024/issues/14)
 
 <br>
 
