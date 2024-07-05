@@ -51,7 +51,7 @@ Our mid-term webinars are fast approaching.
 
 In early May, the coding phase of Code for Earth 2024 started with 13 projects, covering 12 challenges, 52 participants and 40 mentors. The teams have dived into their work and will showcase their progress during the upcoming mid-term webinars on 17 and 25 July from 3 pm-4:30 pm CEST.
 
-The webinars promise to be insightful sessions in which the state of play, current achievements and impactful outcomes so far will be shared. This is your opportunity to find out more about the talented projects selected for this year's edition of Code4Earth and learn about the innovative approaches they've adopted to deliver a suite of tools for Data Visualisation, Machine Learning and Software Development in the realm of Earth Sciences.
+The webinars promise to be insightful sessions in which the state of play, current achievements and impactful outcomes so far will be shared. This is your opportunity to find out more about the talented projects selected for this year's edition of Code for Earth and learn about the innovative approaches they've adopted to deliver a suite of tools for Data Visualisation, Machine Learning and Software Development in the realm of Earth Sciences.
 
 If you're an expert working in these fields or an aspiring Code for Earth applicant you can't miss these events! Register now on [Code for Earth website](https://codeforearth.ecmwf.int/2024-mid-term-webinars).
 
